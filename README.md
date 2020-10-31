@@ -27,6 +27,11 @@ the Prolific PL2303 chipset.
 
 ![UPURS Adapter, completed](/docs/upurs-03.jpg)
 
+Credits:
+- Martin Barr for creating UPURS
+- Paul Vernon of https://retro-kit.co.uk for hosting UPURS
+- The wonderful community at https://stardot.org.uk
+
 
 ## Repository layout
 
